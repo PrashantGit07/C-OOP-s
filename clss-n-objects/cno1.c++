@@ -94,3 +94,48 @@
 // points from above program
 // we can create instance of a class outiside the main function , only in case of constructors
 // we can print default constructor without creating instance inside main, instead iin global scope.
+
+
+
+
+
+
+
+
+
+
+
+// defining the member function outise the class
+
+// #include <bits/stdc++.h>
+// using namespace std;
+// class hello
+// {
+//     string name;
+
+// public:
+//     // to define a function outsie the classs , first we have to declare inside the class
+//     void usignOutisideClass();
+//     void insideTheClass()
+//     {
+//         name = "Prashant";
+//         cout << "the name is  : " << name << endl;
+//     }
+// };
+
+// void hello::usignOutisideClass()
+// {
+//     cout << "this is the function defined outiside the class";
+// }
+// int main()
+// {
+//     hello h;
+//     h.insideTheClass();
+//     h.usignOutisideClass();
+//     return 0;
+// }
+
+
+
+
+
